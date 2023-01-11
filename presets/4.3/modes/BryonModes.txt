@@ -1,0 +1,25 @@
+#$ TITLE: Bryon Modes
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL 
+#$ KEYWORDS: bryon, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: Bryon LEwis
+#$ DESCRIPTION: Sets Betaflight Modes to my standard settings for my controller
+
+# map setting to TAER
+map TAER1234
+
+# aux Standard Settings
+aux 0 0 0 1700 2100 0 0
+aux 1 1 1 900 1300 0 0
+aux 2 2 1 1300 1700 0 0
+aux 3 13 2 1300 1700 0 0
+aux 4 35 2 1700 2100 0 0
+
+#$ OPTION BEGIN (CHECKED): Pre-Arm
+    aux 5 36 5 1700 2100 0 0
+#$ OPTION END
+
+#$ OPTION BEGIN (CHECKED): GPS Rescue
+    aux 6 46 3 1700 2100 0 0
+#$ OPTION END
