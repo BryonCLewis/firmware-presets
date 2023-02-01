@@ -3578,8 +3578,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/BryonOSD.txt",
-      "hash": "886b3a2440cfbe4cbc9f9cdc4d46d2b4a434413c0365010fb0cc00ea5cfd182c",
-      "title": "Default 4.3 OSD settings",
+      "hash": "f88c006af0b757a8c0b8fe31675dc6834cb8d73b73ebd9509011184d5531b113",
+      "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
       ],

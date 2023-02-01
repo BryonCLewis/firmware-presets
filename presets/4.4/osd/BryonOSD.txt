@@ -1,11 +1,10 @@
-#$ TITLE: Default 4.3 OSD settings
+#$ TITLE: Default 4.4 OSD settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, OSD
 #$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.3 defaults
-#$ INCLUDE: presets/4.3/osd/defaults.txt
+#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.4 defaults
 
 #$ OPTION BEGIN (CHECKED): Analog
 set osd_units = METRIC
