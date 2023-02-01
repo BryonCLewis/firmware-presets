@@ -1,0 +1,29 @@
+#$ TITLE: Default 4.3 OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, OSD
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.3 defaults
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_units = METRIC
+set osd_vbat_pos = 2465
+set osd_rssi_pos = 2113
+set osd_crosshairs_pos = 237
+set osd_current_pos = 2401
+set osd_mah_drawn_pos = 2433
+set osd_craft_name_pos = 2062
+set osd_gps_speed_pos = 2391
+set osd_gps_lon_pos = 2481
+set osd_gps_lat_pos = 2513
+set osd_gps_sats_pos = 2105
+set osd_home_dir_pos = 2092
+set osd_home_dist_pos = 2096
+set osd_altitude_pos = 2359
+set osd_avg_cell_voltage_pos = 2497
+set osd_disarmed_pos = 2379
+set osd_log_status_pos = 449
+set debug_mode = GYRO_SCALED
+set rpm_filter_fade_range_hz = 100
+set name = QAV-S
