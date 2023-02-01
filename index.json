@@ -824,6 +824,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/BryonOSD.txt",
+      "hash": "9c50dd1d1a39b65494518cfbe99d29b519f6f1bbebdc080e1c27e9ae3b4676ea",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "title": "Default 4.3 OSD settings",
@@ -3537,6 +3554,44 @@
       ],
       "author": "sugarK",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/modes/BryonModes.txt",
+      "hash": "bbf5475b14c92328955cb8e23aac6b80d60894240fa35ff152c218a833d133ca",
+      "title": "Bryon Modes",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "bryon",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Bryon LEwis",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/BryonOSD.txt",
+      "hash": "886b3a2440cfbe4cbc9f9cdc4d46d2b4a434413c0365010fb0cc00ea5cfd182c",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/other/Street_League_motor_outputs.txt",
