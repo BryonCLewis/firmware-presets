@@ -3578,7 +3578,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/BryonOSD.txt",
-      "hash": "e98a54d4e489b1e9648cdfaadf8440cc38938481da6f3dcd3f82ec2ab1dd52b7",
+      "hash": "3e43b97873c36ba34dff9116e17851339b9e6181efedab88e23a9678645b8fc1",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
@@ -3591,6 +3591,22 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/BryonGPS.txt",
+      "hash": "dfa439271d9245e4d1ccd19f1c39498b38cfd20fadca2c4209c62756ad43c21a",
+      "title": "Bryon GPS Settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "bryon",
+        "gps"
+      ],
+      "author": "Bryon Lewis",
       "priority": 0
     },
     {
