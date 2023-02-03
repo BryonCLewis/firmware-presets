@@ -1,7 +1,7 @@
 #$ TITLE: Bryon OSD Settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
-#$ STATUS: OFFICIAL
+#$ STATUS: EXPERIMENTAL 
 #$ KEYWORDS: defaults, reset, OSD, bryon
 #$ AUTHOR: Betaflight
 #$ DESCRIPTION: Bryon OSD settings
