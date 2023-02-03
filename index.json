@@ -3578,20 +3578,18 @@
     },
     {
       "fullPath": "presets/4.4/osd/BryonOSD.txt",
-      "hash": "e0831dd07bd54fac6718e910404fa02f10b44a58e05422210c10413dbef18bbb",
+      "hash": "4e3ddf3be60a5a42fea80b682d9af8f0813f0c7237325f6a6f29dc678a8bd5b3",
       "title": "Bryon OSD Settings",
       "firmware_version": [
         "4.4"
       ],
-      "category": "OSD",
+      "category": "MODES",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "defaults",
-        "reset",
-        "OSD",
-        "bryon"
+        "bryon",
+        "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Bryon LEwis",
       "priority": 0
     },
     {
