@@ -3578,8 +3578,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/BryonOSD.txt",
-      "hash": "3e43b97873c36ba34dff9116e17851339b9e6181efedab88e23a9678645b8fc1",
-      "title": "Default 4.4 OSD settings",
+      "hash": "e69aed68e600b735485c7cdecbe4801977a21f0d161b62d863166182479167f9",
+      "title": "Bryon OSD Settings",
       "firmware_version": [
         "4.4"
       ],
@@ -3588,7 +3588,8 @@
       "keywords": [
         "defaults",
         "reset",
-        "OSD"
+        "OSD",
+        "bryon"
       ],
       "author": "Betaflight",
       "priority": 0

@@ -1,10 +1,10 @@
-#$ TITLE: Default 4.4 OSD settings
+#$ TITLE: Bryon OSD Settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, OSD
+#$ KEYWORDS: defaults, reset, OSD, bryon
 #$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.4 defaults
+#$ DESCRIPTION: Bryon OSD settings
 
 #$ OPTION BEGIN (CHECKED): Analog
 set osd_units = METRIC
