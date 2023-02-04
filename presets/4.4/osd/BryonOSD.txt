@@ -456,3 +456,16 @@ set osd_canvas_width = 60
 set osd_canvas_height = 22
 set osd_craftname_msgs = OFF
 #$ OPTION END
+
+
+#$ OPTION_GROUP BEGIN: Analog Link Display
+    #$ OPTION BEGIN (CHECKED): Link Quality
+        set osd_rssi_pos = 2081
+        set osd_link_quality_pos = 314
+    #$ OPTION END
+
+    #$ OPTION BEGIN (UNCHECKED): RSSI
+        set osd_rssi_pos = 33
+        set osd_link_quality_pos = 2081
+    #$ OPTION END
+#$ OPTION_GROUP END
