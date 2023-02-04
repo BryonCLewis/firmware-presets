@@ -7,6 +7,13 @@
 #$ DESCRIPTION: Sets GPS Settings for gps rescue
 
 
+feature GPS
+
+beeper ARMING_GPS_FIX
+beeper ARMING_GPS_NO_FIX
+beeper GPS_STATUS
+
+
 set gps_provider = UBLOX
 set gps_sbas_mode = AUTO
 set gps_auto_config = ON

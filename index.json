@@ -3578,7 +3578,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/BryonOSD.txt",
-      "hash": "9f9512f06ac955306fa4d459cd32c06e1492cc92c05dbd52ae93930342822100",
+      "hash": "9fdedb84fa2e5a12926bfbf2b3dd9a82a2d486466b3b9ca0b8ae9e0613772ad6",
       "title": "Bryon OSD Settings",
       "firmware_version": [
         "4.4"
@@ -3594,7 +3594,7 @@
     },
     {
       "fullPath": "presets/4.4/other/BryonGPS.txt",
-      "hash": "dfa439271d9245e4d1ccd19f1c39498b38cfd20fadca2c4209c62756ad43c21a",
+      "hash": "efaf52344c5eaaeb8ee47201579eb557d842e8f0b9d4992b7f445e180306a5a1",
       "title": "Bryon GPS Settings",
       "firmware_version": [
         "4.4"
