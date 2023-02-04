@@ -3578,12 +3578,12 @@
     },
     {
       "fullPath": "presets/4.4/osd/BryonOSD.txt",
-      "hash": "8414cc7e058758f70f475dbfa3209ccc95fdb2859d747b1fe6a22f9b052ab069",
+      "hash": "d34bb52890a306f824c1958e9ab8d46a3b39744a1feae0a0925cdf52c2194c7f",
       "title": "Bryon OSD Settings",
       "firmware_version": [
         "4.4"
       ],
-      "category": "MODES",
+      "category": "OSD",
       "status": "EXPERIMENTAL",
       "keywords": [
         "bryon",
